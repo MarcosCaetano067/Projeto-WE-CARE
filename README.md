@@ -7,3 +7,4 @@
 <br>
 - Proejeto responsivo para celular  :iphone:
 <img src="https://github.com/MarcosCaetano067/WE-CARE-/blob/main/assets/Desktop.png?raw=true"/>
+<img src="https://github.com/MarcosCaetano067/WE-CARE-/blob/main/assets/mobile.png?raw=true"/>
