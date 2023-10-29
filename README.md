@@ -6,3 +6,4 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
 <br>
 - Proejeto responsivo para celular  :iphone:
+<img src="https://github.com/MarcosCaetano067/WE-CARE-/blob/main/assets/Desktop.png?raw=true"/>
